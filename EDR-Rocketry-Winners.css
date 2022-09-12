@@ -1,0 +1,195 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 107px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 21px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 912px;
+  height: 0;
+  margin: 30px auto 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-line-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-line-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-line-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 178px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 473px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 420px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 189px;
+  height: 499px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 420px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 28px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 116px 3px 0;
+}
+
+.u-section-3 .u-line-1 {
+  width: 912px;
+  height: 0;
+  margin: 30px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 399px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 346px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 501px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 346px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 318px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 671px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 479px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 371px;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 340px;
+  }
+} .u-section-4 {
+  background-image: url("images/EDR-Winner-20-21-1.webp");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 498px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 411px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 236px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 15px;
+}
