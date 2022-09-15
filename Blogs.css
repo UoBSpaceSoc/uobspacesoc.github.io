@@ -25,9 +25,20 @@
   padding: 30px;
 }
 
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 0;
+}
+
 .u-section-2 .u-image-1 {
   height: 140px;
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-2 {
   margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-gallery-nav-1 {
