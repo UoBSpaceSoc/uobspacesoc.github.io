@@ -37910,6 +37910,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-3 {
   font-size: 1rem;
   background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 .u-header .u-nav-4 {
@@ -37920,11 +37922,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 93px;
+    min-height: 94px;
   }
 
   .u-header .u-image-1 {
+    width: 250px;
     margin-top: 15px;
+    margin-left: -44px;
   }
 
   .u-header .u-menu-1 {
@@ -37937,6 +37941,11 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
     min-height: 80px;
+  }
+
+  .u-header .u-image-1 {
+    width: 250px;
+    margin-left: -44px;
   }
 
   .u-header .u-menu-1 {
@@ -38130,7 +38139,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 266px;
+    min-height: 105px;
   }
 
   .u-footer .u-social-icons-1 {
