@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 725px;
+  min-height: 817px;
 }
 
 .u-section-1 .u-text-1 {
   font-family: "Alfa Slab One";
   font-size: 2.25rem;
-  margin: 10px 81px 0;
+  margin: 102px 81px 0;
 }
 
 .u-section-1 .u-image-1 {
@@ -81,7 +81,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 625px;
+    min-height: 717px;
   }
 
   .u-section-1 .u-text-1 {
